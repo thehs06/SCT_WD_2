@@ -19,4 +19,3 @@ Built with a focus on **glassmorphism**, **modular structure**, and **user engag
 - **JavaScript** – Interactivity and DOM manipulation
 - **GitHub Pages** – Deployment
 
-## 📁 Folder Structure
